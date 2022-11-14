@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/en/about/</loc>
+    <loc>https://almamy.github.io/en/about/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/en/</loc>
+    <loc>https://almamy.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/"
+                href="https://almamy.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/"
+                href="https://almamy.github.io/en/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/authors/</loc>
+    <loc>https://almamy.github.io/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/authors/"
+                href="https://almamy.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/authors/"
+                href="https://almamy.github.io/en/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/categories/</loc>
+    <loc>https://almamy.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/categories/"
+                href="https://almamy.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/categories/"
+                href="https://almamy.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/contact/</loc>
+    <loc>https://almamy.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/contact/"
+                href="https://almamy.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/contact/"
+                href="https://almamy.github.io/en/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/projects/</loc>
+    <loc>https://almamy.github.io/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/projects/"
+                href="https://almamy.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/projects/"
+                href="https://almamy.github.io/en/projects/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/series/</loc>
+    <loc>https://almamy.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/series/"
+                href="https://almamy.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/series/"
+                href="https://almamy.github.io/en/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/tags/</loc>
+    <loc>https://almamy.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/tags/"
+                href="https://almamy.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/tags/"
+                href="https://almamy.github.io/en/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/en/thank-you/</loc>
+    <loc>https://almamy.github.io/en/thank-you/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://www.example.com/thank-you/"
+                href="https://almamy.github.io/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/en/thank-you/"
+                href="https://almamy.github.io/en/thank-you/"
                 />
   </url>
 </urlset>
