@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Almamy Coulibaly</title>
+    <link>http://www.example.com/en/</link>
+    <description>Recent content on Almamy Coulibaly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>test</copyright><atom:link href="http://www.example.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/en/about/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/about/</guid>
+      <description>Quick HistoryLink to headingI have started college at the University of Alabama at Birmingham where I first studied English for about two years then I have started my Computer Science curriculum after obtaining a sufficient score in the International English Language Testing System (IELTS) exam. After this experience, I came back to Côte d&amp;rsquo;Ivoire where I obtained a Bachelor&amp;rsquo;s degree at the International University of Grand-Bassam in Computer Science.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>http://www.example.com/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/contact/</guid>
+      <description> Contact me with this form below and I&#39;ll get back to you ASAP!Message</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/en/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/projects/</guid>
+      <description>Nothing to see here yet&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Thank You</title>
+      <link>http://www.example.com/en/thank-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/en/thank-you/</guid>
+      <description>Thanks for leaving me a message. I will respond to you as soon as possible.Link to heading</description>
+    </item>
+    
+  </channel>
+</rss>
