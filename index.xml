@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Almamy Coulibaly</title>
-    <link>https://alm4my.github.io/</link>
+    <link>https://almamy.net/</link>
     <description>Recent content on Almamy Coulibaly</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>test</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://alm4my.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almamy.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Propos</title>
-      <link>https://alm4my.github.io/a-propos/</link>
+      <link>https://almamy.net/a-propos/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://alm4my.github.io/a-propos/</guid>
+      <guid>https://almamy.net/a-propos/</guid>
       <description>Historique rapideLink to headingJ&amp;rsquo;ai commencé mes études universitaires à l&amp;rsquo;Université de l&amp;rsquo;Alabama à Birmingham où j&amp;rsquo;ai d&amp;rsquo;abord étudié l&amp;rsquo;anglais pendant environ deux ans, puis j&amp;rsquo;ai commencé mon programme d&amp;rsquo;informatique après avoir obtenu un score suffisant à l&amp;rsquo;examen International English Language Testing System (IELTS). Après cette expérience, je suis revenu en Côte d&amp;rsquo;Ivoire où j&amp;rsquo;ai obtenu une Licence en Informatique à l&amp;rsquo;Université Internationale de Grand-Bassam.
 Antécédents de travailLink to heading2018 - 2022 Maillot.</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>https://alm4my.github.io/articles/emoji-support/</link>
+      <link>https://almamy.net/articles/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://alm4my.github.io/articles/emoji-support/</guid>
+      <guid>https://almamy.net/articles/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contactez-Moi</title>
-      <link>https://alm4my.github.io/contact/</link>
+      <link>https://almamy.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alm4my.github.io/contact/</guid>
+      <guid>https://almamy.net/contact/</guid>
       <description> Contactez-moi avec ce formulaire ci-dessous et je vous répondrai dès que possible!Message</description>
     </item>
     
     <item>
       <title>Merci</title>
-      <link>https://alm4my.github.io/thank-you/</link>
+      <link>https://almamy.net/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alm4my.github.io/thank-you/</guid>
+      <guid>https://almamy.net/thank-you/</guid>
       <description>Merci de m&amp;rsquo;avoir laissé un message. Je vous répond au plus vite.Link to heading</description>
     </item>
     
     <item>
       <title>Projets</title>
-      <link>https://alm4my.github.io/projects/</link>
+      <link>https://almamy.net/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://alm4my.github.io/projects/</guid>
+      <guid>https://almamy.net/projects/</guid>
       <description>Rien à voir ici pour l&amp;rsquo;instant&amp;hellip; Passez votre chemin !</description>
     </item>
     

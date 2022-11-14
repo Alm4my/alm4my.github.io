@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alm4my.github.io/en/about/</loc>
+    <loc>https://almamy.net/en/about/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alm4my.github.io/en/</loc>
+    <loc>https://almamy.net/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/"
+                href="https://almamy.net/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/"
+                href="https://almamy.net/en/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/authors/</loc>
+    <loc>https://almamy.net/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/authors/"
+                href="https://almamy.net/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/authors/"
+                href="https://almamy.net/en/authors/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/categories/</loc>
+    <loc>https://almamy.net/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/categories/"
+                href="https://almamy.net/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/categories/"
+                href="https://almamy.net/en/categories/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/contact/</loc>
+    <loc>https://almamy.net/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/contact/"
+                href="https://almamy.net/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/contact/"
+                href="https://almamy.net/en/contact/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/projects/</loc>
+    <loc>https://almamy.net/en/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/projects/"
+                href="https://almamy.net/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/projects/"
+                href="https://almamy.net/en/projects/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/series/</loc>
+    <loc>https://almamy.net/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/series/"
+                href="https://almamy.net/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/series/"
+                href="https://almamy.net/en/series/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/tags/</loc>
+    <loc>https://almamy.net/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/tags/"
+                href="https://almamy.net/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/tags/"
+                href="https://almamy.net/en/tags/"
                 />
   </url><url>
-    <loc>https://alm4my.github.io/en/thank-you/</loc>
+    <loc>https://almamy.net/en/thank-you/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://alm4my.github.io/thank-you/"
+                href="https://almamy.net/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://alm4my.github.io/en/thank-you/"
+                href="https://almamy.net/en/thank-you/"
                 />
   </url>
 </urlset>
