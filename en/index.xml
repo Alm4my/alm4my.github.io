@@ -5,7 +5,17 @@
     <link>https://www.almamy.net/en/</link>
     <description>Recent content on Almamy Coulibaly | TSG 🎧</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.almamy.net/en/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.almamy.net/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security vs Cybersecurity</title>
+      <link>https://www.almamy.net/en/posts/sec_cybersec/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.almamy.net/en/posts/sec_cybersec/</guid>
+      <description>One of the hardest thing to discern as a new security student was the different terms in security. On one hand we have cybersecurity and on the other, we have information security.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://www.almamy.net/en/about/</link>
@@ -31,15 +41,6 @@
       
       <guid>https://www.almamy.net/en/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
-    </item>
-    
-    <item>
-      <title>Security vs Cybersecurity</title>
-      <link>https://www.almamy.net/en/posts/sec_cybersec/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.almamy.net/en/posts/sec_cybersec/</guid>
-      <description>One of the hardest thing to discern as a new security student was the different terms in security. On one hand we have cybersecurity and on the other, we have information security.</description>
     </item>
     
     <item>
