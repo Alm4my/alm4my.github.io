@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Almamy Coulibaly</title>
-    <link>https://almamy.net/tags/</link>
-    <description>Recent content in Tags on Almamy Coulibaly</description>
+    <title>Tags on Almamy Coulibaly | TSG 🎧</title>
+    <link>https://www.almamy.net/tags/</link>
+    <description>Recent content in Tags on Almamy Coulibaly | TSG 🎧</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>test</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almamy.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>emoji</title>
-      <link>https://almamy.net/tags/emoji/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://almamy.net/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
+    <language>fr-fr</language><atom:link href="https://www.almamy.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

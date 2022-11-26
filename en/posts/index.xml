@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Almamy Coulibaly | TSG 🎧</title>
+    <link>https://www.almamy.net/en/posts/</link>
+    <description>Recent content in Posts on Almamy Coulibaly | TSG 🎧</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://www.almamy.net/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security vs Cybersecurity</title>
+      <link>https://www.almamy.net/en/posts/sec_cybersec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.almamy.net/en/posts/sec_cybersec/</guid>
+      <description>One of the hardest thing to discern as a new security student was the different terms in security. On one hand we have cybersecurity and on the other, we have information security.</description>
+    </item>
+    
+  </channel>
+</rss>

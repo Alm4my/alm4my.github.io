@@ -2,14 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://almamy.net/en/sitemap.xml</loc>
+    <loc>https://www.almamy.net/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://almamy.net/fr-fr/sitemap.xml</loc>
-    
-      <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://www.almamy.net/fr-fr/sitemap.xml</loc>
     
   </sitemap>
   

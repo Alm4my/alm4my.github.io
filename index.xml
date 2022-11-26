@@ -1,57 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Almamy Coulibaly</title>
-    <link>https://almamy.net/</link>
-    <description>Recent content on Almamy Coulibaly</description>
+    <title>Almamy Coulibaly | TSG 🎧</title>
+    <link>https://www.almamy.net/</link>
+    <description>Recent content on Almamy Coulibaly | TSG 🎧</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>test</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://almamy.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://www.almamy.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Propos</title>
-      <link>https://almamy.net/a-propos/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <link>https://www.almamy.net/about/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://almamy.net/a-propos/</guid>
-      <description>Historique rapideLink to headingJ&amp;rsquo;ai commencé mes études universitaires à l&amp;rsquo;Université de l&amp;rsquo;Alabama à Birmingham où j&amp;rsquo;ai d&amp;rsquo;abord étudié l&amp;rsquo;anglais pendant environ deux ans, puis j&amp;rsquo;ai commencé mon programme d&amp;rsquo;informatique après avoir obtenu un score suffisant à l&amp;rsquo;examen International English Language Testing System (IELTS). Après cette expérience, je suis revenu en Côte d&amp;rsquo;Ivoire où j&amp;rsquo;ai obtenu une Licence en Informatique à l&amp;rsquo;Université Internationale de Grand-Bassam.
-Antécédents de travailLink to heading2018 - 2022 Maillot.</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://almamy.net/articles/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://almamy.net/articles/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://www.almamy.net/about/</guid>
+      <description>Historique rapideLink to headingJ’ai commencé mes études universitaires à l’Université de l’Alabama à Birmingham où j’ai d’abord étudié l’anglais pendant environ deux ans, puis j’ai commencé mon programme d’informatique après avoir obtenu un score suffisant à l’examen International English Language Testing System (IELTS). Après cette expérience, je suis revenu en Côte d’Ivoire où j’ai obtenu une Licence en Informatique à l’Université Internationale de Grand-Bassam.
+Antécédents de travailLink to heading2021 - 2022 Maillot.</description>
     </item>
     
     <item>
       <title>Contactez-Moi</title>
-      <link>https://almamy.net/contact/</link>
+      <link>https://www.almamy.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://almamy.net/contact/</guid>
+      <guid>https://www.almamy.net/contact/</guid>
       <description> Contactez-moi avec ce formulaire ci-dessous et je vous répondrai dès que possible!Message</description>
     </item>
     
     <item>
       <title>Merci</title>
-      <link>https://almamy.net/thank-you/</link>
+      <link>https://www.almamy.net/thank-you/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://almamy.net/thank-you/</guid>
-      <description>Merci de m&amp;rsquo;avoir laissé un message. Je vous répond au plus vite.Link to heading</description>
+      <guid>https://www.almamy.net/thank-you/</guid>
+      <description>Merci de m’avoir laissé un message. Je vous répond au plus vite.Link to heading</description>
     </item>
     
     <item>
       <title>Projets</title>
-      <link>https://almamy.net/projects/</link>
+      <link>https://www.almamy.net/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://almamy.net/projects/</guid>
-      <description>Rien à voir ici pour l&amp;rsquo;instant&amp;hellip; Passez votre chemin !</description>
+      <guid>https://www.almamy.net/projects/</guid>
+      <description>Rien à voir ici pour l’instant… Passez votre chemin !</description>
     </item>
     
   </channel>

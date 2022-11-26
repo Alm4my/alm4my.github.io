@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Almamy Coulibaly</title>
+    <title>Almamy Coulibaly | TSG 🎧</title>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="color-scheme" content="light dark">
@@ -10,23 +10,23 @@
 
 
 <meta name="author" content="Almamy Coulibaly">
-<meta name="description" content="Security Gnome">
-<meta name="keywords" content="blog,secuirty analyst,developer,personal">
+<meta name="description" content="Almamy Coulibaly&#39;s Personal Website">
+<meta name="keywords" content="blog, sécurité informatique, cybersecurity, security, africa cybersecurity, africa, analyste cybersécurité, développeur, personnel">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Almamy Coulibaly"/>
-<meta name="twitter:description" content="Security Gnome"/>
+<meta name="twitter:title" content="Almamy Coulibaly | TSG 🎧"/>
+<meta name="twitter:description" content="Almamy Coulibaly&#39;s Personal Website"/>
 
-<meta property="og:title" content="Almamy Coulibaly" />
-<meta property="og:description" content="Security Gnome" />
+<meta property="og:title" content="Almamy Coulibaly | TSG 🎧" />
+<meta property="og:description" content="Almamy Coulibaly&#39;s Personal Website" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://almamy.net/en/" />
+<meta property="og:url" content="https://www.almamy.net/en/" />
 
 
 
 
 
-<link rel="canonical" href="https://almamy.net/en/">
+<link rel="canonical" href="https://www.almamy.net/en/">
 
 
 <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -64,10 +64,11 @@
 <link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
 
 
-<link rel="alternate" type="application/rss+xml" href="/en/index.xml" title="Almamy Coulibaly" />
+<link rel="alternate" type="application/rss+xml" href="/en/index.xml" title="Almamy Coulibaly | TSG 🎧" />
+<link rel="alternate" type="application/json" href="/en/index.json" title="Almamy Coulibaly | TSG 🎧" />
 
 
-<meta name="generator" content="Hugo 0.105.0">
+<meta name="generator" content="Hugo 0.106.0">
 
 
 
@@ -93,7 +94,7 @@
     <nav class="navigation">
   <section class="container">
     <a class="navigation-title" href="/en">
-      Almamy Coulibaly
+      Almamy Coulibaly | TSG 🎧
     </a>
     
       <input type="checkbox" id="menu-toggle" />
@@ -132,7 +133,7 @@
                 
               
               <li class="navigation-item">
-                <a href="https://almamy.net/">🇫🇷</a>
+                <a href="https://www.almamy.net/">🇫🇷</a>
               </li>
             
           
@@ -157,7 +158,7 @@
 
     <h1>Almamy Coulibaly</h1>
 
-<h2>Developer | Artificial Intelligence  | Cybersecurity<br>Specialist<br></h2>
+<h2>Developer | Cybersecurity | Artificial Intelligence<br>Specialist<br></h2>
 
 
 
@@ -182,7 +183,7 @@
   
     
       <li>
-        <a href="https://twitter.com/thenixadmins/" aria-label="Twitter"   >
+        <a href="https://twitter.com/thesecgnome/" aria-label="Twitter"   >
           <i class="fa fa-2x fa-twitter" aria-hidden="true"></i>
         </a>
       </li>
@@ -206,7 +207,7 @@
   
     
       <li>
-        <a href="https://t.me/benabdul1" aria-label="Telegram"   >
+        <a href="https://t.me/TheSecGnome" aria-label="Telegram"   >
           <i class="fa fa-2x fa-telegram" aria-hidden="true"></i>
         </a>
       </li>
@@ -231,7 +232,9 @@
     
     2022
      Almamy Coulibaly 
-    ·
+
+    
+
     
   </section>
 </footer>
@@ -262,6 +265,94 @@
   
 
   
+<style>
+    #fastSearch {
+      visibility: hidden;
+      position: absolute;
+      right: 0;
+      top: 0;
+      display: inline-block;
+      width: 300px;
+      margin-top: 3em;
+      margin-right: 1em;
+    }
+
+    #fastSearch input {
+      padding: 1em;
+      width: 100%;
+      height: 31px;
+      font-size: 1.6em;
+      color: #aaa;
+      font-weight: bold;
+      background-color: #000;
+      border-radius: .3em;
+      border: none;
+      outline: none;
+      text-align: left;
+      display: inline-block;
+    }
+
+    #searchResults li {
+      list-style: none;
+      margin-right: 1.2em;
+      background-color: #333;
+      border-bottom: 1px dotted #000;
+    }
+    #searchResults li .title { font-size: 1.1em; margin-bottom: 10px; display: inline-block;}
+
+    #searchResults { border-radius: .2em; margin-top: 0; visibility: inherit; display: inline-block; width: 320px; }
+    #searchResults a { text-decoration: none !important; padding: 10px; display: inline-block; }
+    #searchResults a:hover, a:focus { outline: 0; background-color: #666; color: #fff; }
+
+    button {
+      margin-right: .4em;
+      height: 48px;
+      width: 46px;
+      position: absolute;
+      border-radius: 5px;
+      right: 0;
+      z-index: 2;
+      border: none;
+      top: 4px;
+      cursor: pointer;
+      color: white;
+      background-color: #1e90ff;
+      transform: translateX(2px);
+    }
+  </style>
+  <div id="fastSearch">
+    <label for="searchInput"></label>
+    <input id="searchInput" tabindex="0" placeholder='Search...'>
+    <button id="clear" onclick="empty()">clear</button>
+    <ul id="searchResults">
+    </ul>
+  </div>
+  <script src="/js/fuse.js"></script> 
+  <script src="/js/fastsearch.js"></script>
+  <script>
+      var toggle = 0
+
+      function display() {
+        if (toggle === 0) {
+          document.getElementById("fastSearch").style.visibility ="visible"
+          document.getElementById("searchInput").focus()
+          toggle = 1
+        } else {
+          document.getElementById("fastSearch").style.visibility ="hidden"
+          toggle = 0
+        }
+
+      }
+
+      document.addEventListener('mouseup', function(event) {
+        document.getElementById("fastSearch").style.visibility ="hidden"
+      })
+
+    function empty() {
+      document.getElementById('searchInput').value = ""
+      document.getElementById('searchInput').focus()
+    }
+  </script>
 </body>
 
 </html>

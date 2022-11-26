@@ -2,114 +2,125 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://almamy.net/a-propos/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://almamy.net/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://www.almamy.net/about/</loc>
+    <lastmod>2022-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/"
+                href="https://www.almamy.net/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/"
+                href="https://www.almamy.net/about/"
                 />
   </url><url>
-    <loc>https://almamy.net/articles/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://almamy.net/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://almamy.net/articles/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://almamy.net/tags/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+    <loc>https://www.almamy.net/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/tags/"
+                href="https://www.almamy.net/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/tags/"
+                href="https://www.almamy.net/"
                 />
   </url><url>
-    <loc>https://almamy.net/authors/</loc>
+    <loc>https://www.almamy.net/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/authors/"
+                href="https://www.almamy.net/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/authors/"
+                href="https://www.almamy.net/authors/"
                 />
   </url><url>
-    <loc>https://almamy.net/categories/</loc>
+    <loc>https://www.almamy.net/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/categories/"
+                href="https://www.almamy.net/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/categories/"
+                href="https://www.almamy.net/categories/"
                 />
   </url><url>
-    <loc>https://almamy.net/contact/</loc>
+    <loc>https://www.almamy.net/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/contact/"
+                href="https://www.almamy.net/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/contact/"
+                href="https://www.almamy.net/contact/"
                 />
   </url><url>
-    <loc>https://almamy.net/thank-you/</loc>
+    <loc>https://www.almamy.net/thank-you/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/thank-you/"
+                href="https://www.almamy.net/en/thank-you/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/thank-you/"
+                href="https://www.almamy.net/thank-you/"
                 />
   </url><url>
-    <loc>https://almamy.net/projects/</loc>
+    <loc>https://www.almamy.net/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/projects/"
+                href="https://www.almamy.net/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/projects/"
+                href="https://www.almamy.net/projects/"
                 />
   </url><url>
-    <loc>https://almamy.net/series/</loc>
+    <loc>https://www.almamy.net/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://almamy.net/en/series/"
+                href="https://www.almamy.net/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="https://almamy.net/series/"
+                href="https://www.almamy.net/search/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/series/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/"
                 />
   </url>
 </urlset>
