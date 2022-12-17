@@ -5,7 +5,17 @@
     <link>https://www.almamy.net/</link>
     <description>Recent content on Almamy Coulibaly | TSG 🎧</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://www.almamy.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.almamy.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Security vs Cybersecurity</title>
+      <link>https://www.almamy.net/posts/test/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.almamy.net/posts/test/</guid>
+      <description>TestLink to heading</description>
+    </item>
+    
     <item>
       <title>A Propos</title>
       <link>https://www.almamy.net/about/</link>

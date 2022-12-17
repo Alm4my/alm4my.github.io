@@ -2,6 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.almamy.net/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/tags/cybersecurity/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/cybersecurity/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/tags/information-security/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/information-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/information-security/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/posts/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/posts/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/tags/security/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/security/"
+                />
+  </url><url>
+    <loc>https://www.almamy.net/posts/test/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.almamy.net/tags/</loc>
+    <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/"
+                />
+  </url><url>
     <loc>https://www.almamy.net/about/</loc>
     <lastmod>2022-11-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -13,18 +94,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="https://www.almamy.net/about/"
-                />
-  </url><url>
-    <loc>https://www.almamy.net/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.almamy.net/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://www.almamy.net/"
                 />
   </url><url>
     <loc>https://www.almamy.net/authors/</loc>
@@ -109,18 +178,6 @@
                 rel="alternate"
                 hreflang="fr-fr"
                 href="https://www.almamy.net/series/"
-                />
-  </url><url>
-    <loc>https://www.almamy.net/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.almamy.net/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://www.almamy.net/tags/"
                 />
   </url>
 </urlset>

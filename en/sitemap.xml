@@ -17,15 +17,55 @@
   </url><url>
     <loc>https://www.almamy.net/en/tags/cybersecurity/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/cybersecurity/"
+                />
   </url><url>
     <loc>https://www.almamy.net/en/tags/information-security/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/information-security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/information-security/"
+                />
   </url><url>
     <loc>https://www.almamy.net/en/posts/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/posts/"
+                />
   </url><url>
     <loc>https://www.almamy.net/en/tags/security/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://www.almamy.net/tags/security/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.almamy.net/en/tags/security/"
+                />
   </url><url>
     <loc>https://www.almamy.net/en/posts/sec_cybersec/</loc>
     <lastmod>2022-11-26T00:00:00+00:00</lastmod>
